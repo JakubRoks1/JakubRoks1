@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Codewars](https://github.r2v.ch/codewars?user=JakubR.&stroke=COLOR)
+<!-- ![Codewars](https://github.r2v.ch/codewars?user=JakubR.&stroke=COLOR) -->
 
 <!--
 **JakubRoks1/JakubRoks1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
