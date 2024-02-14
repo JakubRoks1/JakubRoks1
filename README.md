@@ -7,10 +7,10 @@
 </h1>
 <br>
 
-# Where to find me :earth_americas:
+
 
 <p align='center'>
-
+  # Where to find me :earth_americas:
 <a href="https://www.linkedin.com/in/jakubroks/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
