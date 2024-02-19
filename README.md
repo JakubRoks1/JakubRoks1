@@ -30,6 +30,8 @@
 
 <!-- ![Codewars](https://github.r2v.ch/codewars?user=JakubR.&stroke=COLOR) -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
 <!--
 **JakubRoks1/JakubRoks1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
