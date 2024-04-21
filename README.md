@@ -11,8 +11,11 @@
 
 <p align='center'>
   
+<!--
 <a href="https://www.linkedin.com/in/jakubroks/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+-->
+
 
 <a href="https://www.codewars.com/users/JakubR.">
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/></a>
