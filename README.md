@@ -20,7 +20,7 @@
 <a href="https://www.codewars.com/users/JakubR.">
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/></a>
 
-<a href="https://https://leetcode.com/u/kubaroks/">
+<a href="https://leetcode.com/u/kubaroks/">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
 
 
